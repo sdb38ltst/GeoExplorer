@@ -4,9 +4,6 @@
 [submodule "externals/buildkit"]
 	path = externals/buildkit
 	url = git://github.com/tschaub/buildkit.git
-[submodule "app/static/externals/gxp"]
-	path = app/static/externals/gxp
-	url = git://github.com/opengeo/gxp.git
 [submodule "app/static/externals/GeoExt"]
 	path = app/static/externals/GeoExt
 	url = git://github.com/geoext/geoext.git
@@ -19,6 +16,6 @@
 [submodule "externals/stick"]
 	path = externals/stick
 	url = https://github.com/hns/stick.git
-[submodule "externals/ringojs-fork"]
-	path = externals/ringojs-fork
-	url = git://github.com/tschaub/ringojs.git
+[submodule "app/static/externals/gxp"]
+	path = app/static/externals/gxp
+	url = git://github.com/sdb38ltst/gxp.git
